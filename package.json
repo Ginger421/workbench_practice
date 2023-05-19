@@ -6,9 +6,11 @@
   "name": "workbench_practice",
   "version": "1.0.0",
   "main": "index.js",
+
   "devDependencies": {},
   "scripts": {
-    "test": "test"
+      "start": "node index.js",
+      "test": "test"
   },
   "author": "Ginger",
   "license": "MIT",
