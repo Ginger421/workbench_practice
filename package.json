@@ -1,16 +1,15 @@
 {
   "dependencies": {
+    "dotenv": "^16.0.3",
     "express": "^4.18.2",
-    "mysql": "^2.18.1"
+    "mysql2": "^3.3.2"
   },
   "name": "workbench_practice",
   "version": "1.0.0",
   "main": "index.js",
-
-  "devDependencies": {},
   "scripts": {
-      "start": "node index.js",
-      "test": "test"
+    "start": "node index.js",
+    "test": "test"
   },
   "author": "Ginger",
   "license": "MIT",
